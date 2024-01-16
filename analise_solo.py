@@ -16,7 +16,7 @@ def classe_fertilidade_magnesio(magnesio):
     elif 91 <= magnesio < 125:
         return "A"   # Alta
     elif magnesio >= 125:
-        return "MA"  # Muito Alta
+        return "MA"  # Muito Alta 
 
 
 
