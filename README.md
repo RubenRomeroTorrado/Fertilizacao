@@ -11,3 +11,14 @@ O nosso projeto tem como objetivo auxiliar a fertilização com base em resultad
 
 # Culturas
   Decidimos fazer a recomendação para quatro culturas diferentes: (ervilha, melancia, beterraba e beringela). Para isto definimos classes, em que cada classe apresentava as necessidades de fertilização de cada cultura, para os diferentes niveis de classes de fertilidade. Aqui foi onde tivemos mais dificuldade pois as tabelas com duas entradas foram trabalhosas de passar para classes.
+
+# Ficheiros do nosso trabalho
+
+analise_solo.py - Este ficheiro recolhe os dados da análise de solo
+classes_fertilidade.py - Este ficheiro contém as funções que classificam as classes de fertilidade do solo, para os nutrientes Potássio e Fósforo
+azoto_deduzido.py - Este ficheiro contém as contas para calcular o azoto a deduzir das necessidades da cultura, dependendo da percentagem de matéria orgânica, e da cultura anterior
+recomendar_tipo.py - Existem vários fatores que influenciam a escolha do fertilizante. Para o Azoto o principal é a chuva e o alagamento. Outros fatores também influenciam a escolha tal como se a cultura já se encontra instalada e o ph do solo.
+ 
+
+
+
