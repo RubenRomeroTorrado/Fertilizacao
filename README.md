@@ -15,10 +15,15 @@ O nosso projeto tem como objetivo auxiliar a fertilização com base em resultad
 # Ficheiros do nosso trabalho
 
 analise_solo.py - Este ficheiro recolhe os dados da análise de solo
+
 classes_fertilidade.py - Este ficheiro contém as funções que classificam as classes de fertilidade do solo, para os nutrientes Potássio e Fósforo
+
 azoto_deduzido.py - Este ficheiro contém as contas para calcular o azoto a deduzir das necessidades da cultura, dependendo da percentagem de matéria orgânica, e da cultura anterior
+
 recomendar_tipo.py - Existem vários fatores que influenciam a escolha do fertilizante. Para o Azoto o principal é a chuva e o alagamento. Outros fatores também influenciam a escolha tal como se a cultura já se encontra instalada e o ph do solo.
  
+cultura.py - Este ficheiro mostra-nos as necessidades de nutrientes de cada cultura, conforme as classes de fertilidade. Este ficheiro tambem recolhe os dados da análise de solo e contém as funções que classificam as classes de fertilidade do solo, para os nutrientes potássio, magnésio e fósforo.
+
 
 
 
