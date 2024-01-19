@@ -434,7 +434,7 @@ def main():
 
 
 
-    print(f"Deve adubar com {fertilizante_max_nutriente_N.nome}, a seguinte quantidade: {round(quantidade_de_fertilizante_N)} 5kg/ha")
+    print(f"Deve adubar com {fertilizante_max_nutriente_N.nome}, a seguinte quantidade: {round(quantidade_de_fertilizante_N)} kg/ha")
     print(f"Deve adubar com {fertilizante_max_nutriente_P.nome}, a seguinte quantidade: {round(quantidade_de_fertilizante_p2o5)} kg/ha")
     print(f"Deve adubar com {fertilizante_max_nutriente_K.nome}, a seguinte quantidade: {round(quantidade_de_fertilizante_k2O)} kg/ha")
     print(f"Deve adubar com {fertilizante_max_nutriente_Mg.nome}, a seguinte quantidade: {round(quantidade_de_fertilizante_mg)} kg/ha")
