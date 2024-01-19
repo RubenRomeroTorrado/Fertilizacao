@@ -1,4 +1,4 @@
-from final import azoto_deduzido_cultura_anterior
+from project import azoto_deduzido_cultura_anterior
 
 def test_azoto_deduzido_cultura_anterior():
     assert azoto_deduzido_cultura_anterior('1') == -20
