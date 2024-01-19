@@ -23,6 +23,21 @@ pytest_magnesio - Este ficheiro testa a função que atribui a classe de  fertil
 pyteste_cultura_anterior - Este ficheiro testa a função que calcula a quantidade de azoto a deduzir das recomendações com base na cultura anteriormente instalada
 
 
+# O nosso programa
+
+O programa começa por exibir correr uma função que analise as condições precentes no solo, atribuindo classes de fertilidade e azoto deduzivel da fertelização.
+
+Em seguida é corrida uma classe que nos mostra as necessidades de fertilização com base nos dados dados em cima, dizendo tambem se o ph é adequado ou não a cultura
+
+Após isso o utilizador pode selecionar que cultura pretende, e é tambem perguntado se a cultura já se encontra instalada ou nao, e se irá chover nos dias seguintes
+
+Com esta informaçao e com uma classe contendo os fertilizantes disponiveis no mercado, é calcuada a quantidade de cada um a aplicar á cultura.
+
+
+
+
+
+
 
 
 
